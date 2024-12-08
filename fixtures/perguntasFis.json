@@ -1,0 +1,40 @@
+{
+    "pRCurta": "Teste pergunta resposta curta",
+    "pRLonga": "Teste pergunta resposta longa",
+    "pMultiEs": 
+    {
+        "titulo": "Teste pergunta resposta multipla escolha",
+        "r1": "resposta multipla escolha teste 1",
+        "r2": "resposta multipla escolha teste 2"
+    },
+    "pCaixSele":
+    {
+        "titulo": "Teste pergunta resposta caixa de seleção",
+        "r1": "resposta caixa de seleção teste 1",
+        "r2": "resposta caixa de seleção teste 2"
+    },
+    "pLista":
+    {
+        "titulo": "Teste pergunta resposta lista suspensa",
+        "r1": "resposta lista suspensa teste 1",
+        "r2": "resposta lista suspensa teste 2"
+    },
+    "pData": "Teste pergunta resposta data",
+    "pUplArq": "Teste pergunta resposta upload de arquivo",
+    "pHorario": "Teste pergunta resposta horario",
+    "pIntData": "Teste pergunta resposta intervalo de data",
+    "pEnd": "Digite o seu endereço",
+    "pCpf": "Teste pergunta resposta CPF",
+    "pCnpj": "Teste pergunta resposta CNPJ",
+    "pVeicu": "Teste pergunta resposta veiculo",
+    "pNumProcs": "Teste pergunta resposta Numero do Processo",
+
+    "SPInfoRelac": "Teste pergunta resposta Endereço - Informações de Relacionamento",
+    "SPInfoSociais": "Teste pergunta resposta Endereço - Informações de Sociais",
+    "SPInfoSaude": "Teste pergunta resposta Endereço - Informações de Saude",
+    "SPInfoJudicEPolic": "Teste pergunta resposta Endereço - Informações de Juridico",
+    "SPInfoProfissionais": "Teste pergunta resposta Endereço - Informações de Profissionais",
+    "SPInfoEscolares": "Teste pergunta resposta Endereço - Informações de Escolares",
+    "SPInfoEsonôEPatri": "Teste pergunta resposta Endereço - Informações de Econômicas e Patrimoniais",
+    "SPInfoAnexos": "Teste pergunta resposta Endereço - Informações de Anexos"
+}  

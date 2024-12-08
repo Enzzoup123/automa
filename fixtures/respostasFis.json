@@ -1,0 +1,60 @@
+{
+    "Sessao4": {
+        "pRCurta": "Resposta curta",
+        "pRLonga": "Resposta Longa",
+        "pJMultiEsco": "Teste justificativa da resposta multipla escolha",
+        "pJCaixSele": "Teste justificativa da resposta caixa de seleção",
+        "pRData": "01/01/2025",
+        "pJData": "Teste justificativa da resposta data",
+        "pRHora": "13:00",
+        "pJHora": "Teste justificativa da resposta hora",
+        "pRIntData1": "01/01/2025",
+        "pRIntData2": "01/02/2025",
+        "pJIntData": "Teste justificativa da resposta intervalo de data",
+        "pRCpf": "12345678909",
+        "pRCpfNome": "Jose Amaro Batista",
+        "pJCpf": "Teste justificativa da resposta CPF",
+        "pRCnpj": "05.276.991/0001-53",
+        "pRCnpjNome": "Nome fantasia",
+        "pRCnpjRazao": "Razão social",
+        "pJCnpj": "Teste justificativa da resposta CNPJ",
+        "pRVeicCha": "9BWZZZ377VT004251",
+        "pRVeicCarr": "Sedan",
+        "pRVeicPlac": "ABC-1D23",
+        "pJVeic": "Teste justificativa da resposta veiculo",
+        "pRNumProc": "1234567-89.2024.8.26.0100",
+        "pJNumProc": "Teste justificativa da resposta numero do processo"
+      },
+
+      "Sessao5": {
+        "pRCurta": "Resposta curta - Info Relacionamentos"
+      },
+
+      "Sessao6": {
+        "pRCurta": "Resposta curta - Info Sociais"
+      },
+
+      "Sessao7": {
+        "pRCurta": "Resposta curta - Info Saúde"
+      },
+
+      "Sessao8": {
+        "pRCurta": "Resposta curta - Info Juridiciais e Policias"
+      },
+
+      "Sessao9": {
+        "pRCurta": "Resposta curta - Info Profissionais"
+      },
+
+      "Sessao10": {
+        "pRCurta": "Resposta curta - Info Escolares"
+      },
+
+      "Sessao11": {
+        "pRCurta": "Resposta curta - Info Econômicas e Patrimoniais"
+      },
+
+      "Sessao12": {
+        "pRCurta": "Resposta curta - Info Anexos"
+      }
+}

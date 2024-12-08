@@ -1,0 +1,82 @@
+{
+    "cep": [
+      {
+        "12570000": [
+          {
+            "rua": "R. Leandro Gonçalves",
+            "bairro": "Centro",
+            "n": "165",
+            "estado": "São Paulo",
+            "cidade": "Aparecida"
+          }
+        ]
+      },
+      {
+        "12460000": [
+          {
+            "rua": "R. Tadeu Rangel Pestana",
+            "bairro": "Francalanza",
+            "n": "158",
+            "estado": "São Paulo",
+            "cidade": "Campos do Jordão"
+          }
+        ]
+      },
+      {
+        "11630000": [
+          {
+            "rua": "R. Benedito S Sampaio",
+            "bairro": "Ilhabela",
+            "n": "206",
+            "estado": "São Paulo",
+            "cidade": "Ilhabela"
+          }
+        ]
+      },
+      {
+        "11600000": [
+          {
+            "rua": "R. Araçatuba",
+            "bairro": "Barra do Una",
+            "n": "101",
+            "estado": "São Paulo",
+            "cidade": "São Sebastião"
+          }
+        ]
+      },
+      {
+        "11680000": [
+          {
+            "rua": "R. Jango Teixeira",
+            "bairro": "Ubatuba",
+            "n": "196",
+            "estado": "São Paulo",
+            "cidade": "Ubatuba"
+          }
+        ]
+      },
+      {
+        "13825000": [
+          {
+            "rua": "R. Primavera",
+            "bairro": "Holambra",
+            "n": "215",
+            "estado": "São Paulo",
+            "cidade": "Holambra"
+          }
+        ]
+      },
+      {
+        "17380000": [
+          {
+            "rua": "R. João Batista Crivelari",
+            "bairro": "Santa Cecilia II",
+            "n": "369",
+            "estado": "São Paulo",
+            "cidade": "Brotas"
+          }
+        ]
+      }
+    ]
+  }
+  
